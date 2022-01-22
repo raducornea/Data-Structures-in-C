@@ -1,0 +1,5 @@
+C:/Users/Radu/Desktop/Data-Structures-in-C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Radu/Desktop/Data-Structures-in-C/cmake-build-debug/CMakeFiles/1_Linked_list.dir
+C:/Users/Radu/Desktop/Data-Structures-in-C/cmake-build-debug/CMakeFiles/1_linked_list.dir
+C:/Users/Radu/Desktop/Data-Structures-in-C/cmake-build-debug/CMakeFiles/2_Tree.dir
+C:/Users/Radu/Desktop/Data-Structures-in-C/cmake-build-debug/CMakeFiles/edit_cache.dir
